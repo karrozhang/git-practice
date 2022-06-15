@@ -1,4 +1,4 @@
-#  This is the README file of my git practice repository.
+# This is the README file of my git practice repository.
 
 Origin line 1
 
